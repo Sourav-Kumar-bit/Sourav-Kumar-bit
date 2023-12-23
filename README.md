@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sourav-kumar-bit.github.io/my-portfolio/](https://sourav-kumar-bit.github.io/my-portfolio/)
 
-- 💬 Ask me about **React, Angular, Node**
+- 💬 Ask me about **React, Angular, Node, Express, MongoDB, Javascript**
 
 - 📫 How to reach me **souravkr.62@gmail.com**
 
